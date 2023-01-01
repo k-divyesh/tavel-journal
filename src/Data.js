@@ -29,6 +29,17 @@ const CardData = [
         description:
             'The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.',
     },
+    {
+        imageURL:
+            'https://www.planetware.com/photos-large/ISL/iceland-mountain-esja.jpg',
+        location: 'ICELAND',
+        mapLInkL: 'https://goo.gl/maps/tZRB9C16EReVNc1DA',
+        place: 'Moust Esja',
+        startDMY: '04 Mar, 2022',
+        endDMY: '24 Apr, 2022',
+        description:
+            'A 30-minute drive from Reykjavik brings you to Mount Esja in Kjalarnes. The mountain is 914 meters high. There are terrific views of surrounding landscape and ocean.',
+    },
 ];
 
 export default CardData;
