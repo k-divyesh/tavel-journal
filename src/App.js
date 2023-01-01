@@ -1,17 +1,17 @@
 import './App.css';
 import NavBar from './Components/NavBar';
 import Card from './Components/Card';
-import data from './Data';
+import CardData from './Data';
 
 function App() {
-    // const cards = data.map((item, i) => {
-    //     <Card key={i} {...item} />;
-    // });
+    const cards = CardData.map((item, i) => {
+        return <Card key={i} item={item} />;
+    });
 
     return (
         <>
             <NavBar />
-            <main>{/* {cards} */}</main>
+            <main className="cardContainer">{cards}</main>
         </>
     );
 }
