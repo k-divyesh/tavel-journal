@@ -33,12 +33,23 @@ const CardData = [
         imageURL:
             'https://www.planetware.com/photos-large/ISL/iceland-mountain-esja.jpg',
         location: 'ICELAND',
-        mapLInkL: 'https://goo.gl/maps/tZRB9C16EReVNc1DA',
+        mapLink: 'https://goo.gl/maps/tZRB9C16EReVNc1DA',
         place: 'Moust Esja',
         startDMY: '04 Mar, 2022',
         endDMY: '24 Apr, 2022',
         description:
             'A 30-minute drive from Reykjavik brings you to Mount Esja in Kjalarnes. The mountain is 914 meters high. There are terrific views of surrounding landscape and ocean.',
+    },
+    {
+        imageURL:
+            'https://www.planetware.com/wpimages/2020/02/philippines-best-places-to-visit-manila.jpg',
+        location: 'PHILIPPINES',
+        mapLink: 'https://goo.gl/maps/y8P3sa9kDt783Wmv9',
+        place: 'Manila',
+        startDMY: '07 Jan, 2023',
+        endDMY: '14 Jan, 2023',
+        description:
+            'Usually over-packed with locals, the bumpy ride through the streets on the iconic and kitschy jeep/bus hybrid vehicles will be one of the highlights of your visit. Main places to visit; Rizal Park, and the San Agustin Church.',
     },
 ];
 
