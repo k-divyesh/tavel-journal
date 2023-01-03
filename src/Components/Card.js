@@ -1,3 +1,4 @@
+import React from 'react';
 import locationIcon from '../assets/LocationIcon.png';
 
 export default function Card(props) {

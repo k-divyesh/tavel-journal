@@ -1,3 +1,4 @@
+import React from 'react';
 import webIcon from '../assets/WebIcon.png';
 
 export default function NavBar() {
